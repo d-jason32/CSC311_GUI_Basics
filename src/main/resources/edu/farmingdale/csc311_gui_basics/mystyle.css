@@ -1,4 +1,9 @@
 .root{
     -fx-background-color:#FF0000;
 
+
+}
+
+#name {
+    -fx-font: bold 20pt Arial;
 }
